@@ -12,6 +12,6 @@ source "https://github.com/irov/swiftpilot-podspecs.git"
 platform :ios, "13.0"
 
 target "MyApp" do
-  pod "PilotSDK", "1.0.51"
+  pod "PilotSDK", "1.0.52"
 end
 ```
